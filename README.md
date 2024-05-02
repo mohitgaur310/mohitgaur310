@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Mohit Gaur</h1>
+<h1 align="center">Hi 👋, I'm Mohit Kumar Gaur</h1>
 <h3 align="center">Backend Developer</h3>
 - 🔭 I’m currently working on [OAuth](https://github.com/mohitgaur310/Oauth)
-- 🌱 I’m currently learning **OAuth**
-
-- 📫 How to reach me **hdjsfghdksajfaj**
-- 👨‍💻 All of my projects are available at **fadsfjhljdkfa**
+- 🌱 I’m currently learning **OAuth **
+- 💬 Ask me about **Nodejs, javascript, Spring Boot React Js **
+- 📫 How to reach me **mohitgaur310@gmail.com**
+- 👨‍💻 All of my projects are available at **https://portfoliomohit-327d9.web.app**
 
 <div> <a href="https://www.linkedin.com/in/www.linkedin.com/in/mohit-gaur-3418a1202" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/mohitgaur310" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:hdjsfghdksajfaj"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:mohitgaur310@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/mohit-gaur-3418a1202" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohit-gaur-3418a1202" height="30" width="40" /></a></p>
@@ -31,6 +31,9 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-icon.svg" alt="Sqlite" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
 
 <h3 align="left">Stars</h3>
