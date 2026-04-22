@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey! I'm a Node.js Developer<br>⚡ 2+ years experience building scalable apps & APIs<br>🌐 Skilled in MongoDB, SQLite, and PostgreSQL<br>🚀 Working on social media apps, data migration, & community-based platforms<br>🛠️ Tech Stack: Node.js, Express, React, Firebase, OpenAI<br>📚 Always learning and open to collaboration!<br><br>Let's connect and build something awesome! 🚀
+👋 Hey! I'm a FullStack Developer<br>⚡ 3+ years experience building scalable apps & APIs<br>🌐 Skilled in MongoDB, SQLite, and PostgreSQL<br>🚀 Working on social media apps, data migration, & community-based platforms<br>🛠️ Tech Stack: Node.js, Express, React, Firebase, OpenAI<br>📚 Always learning and open to collaboration!<br><br>Let's connect and build something awesome! 🚀
 
 
 ## 🌐 Socials:
